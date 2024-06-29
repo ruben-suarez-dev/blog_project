@@ -71,7 +71,6 @@ cover/
 # Django stuff:
 
 **/qa-venv
-**/migrations/*.py
 
 # Flask stuff:
 instance/
